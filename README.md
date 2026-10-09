@@ -80,5 +80,12 @@
 </details>
 </p></li></ul>
 
+<!-- relocated-posts:start (projected by the relocate verb; never edit by hand) -->
+## Retired posts
 
+The posts that accompanied this repository were retired from [christianjmills.com](https://christianjmills.com) and now live here:
 
+- [How to Create an OpenVINO Plugin for Unity on Windows Pt. 1](retired-post/fastai-openvino-unity-tutorial/part-1/README.md) (2022-07-17)
+- [How to Create an OpenVINO Plugin for Unity on Windows Pt. 2](retired-post/fastai-openvino-unity-tutorial/part-2/README.md) (2022-07-17)
+- [How to Create an OpenVINO Plugin for Unity on Windows Pt. 3](retired-post/fastai-openvino-unity-tutorial/part-3/README.md) (2022-07-18)
+<!-- relocated-posts:end -->
